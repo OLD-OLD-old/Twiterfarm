@@ -1,0 +1,51 @@
+{
+  "links": [
+    "https://t.me/seu_canal_principal",
+    "https://t.me/seu_canal_vip",
+    "https://t.me/+CODIGO_CONVITE_GRUPO_PRIVADO"
+  ],
+  
+  "comentarios": [
+    "🔥 Conteúdo completo aqui:",
+    "💎 Material exclusivo no canal:",
+    "⚡ Acesse o grupo VIP:",
+    "🎯 Tudo explicado no Telegram:",
+    "✨ Entre no canal agora:",
+    "🚀 Grupo premium:",
+    "💰 Acesso liberado:",
+    "🔓 Entre aqui:",
+    "👇 Link do canal:",
+    "📲 Telegram VIP:",
+    "🎁 Bônus exclusivo no grupo:",
+    "💡 Saiba mais no canal:",
+    "🔑 Acesso direto:",
+    "⏰ Por tempo limitado:",
+    "🌟 Canal oficial:"
+  ],
+  
+  "emojis_extras": [
+    "👇👇👇",
+    "🔽🔽🔽",
+    "⬇️⬇️⬇️",
+    "📌",
+    "🎯",
+    "✅",
+    "🔥🔥",
+    "💎💎",
+    "⚡⚡"
+  ],
+  
+  "_instrucoes": {
+    "uso": "O sistema escolhe aleatoriamente um comentário + um link",
+    "exemplo": "comentario + link + emoji_extra",
+    "delay": "Aguarda 30-90 segundos antes de comentar (humanização)",
+    "rotacao": "Alterna entre diferentes combinações para parecer natural"
+  },
+  
+  "_estrategia": {
+    "timing": "Comenta de 30 a 90 segundos após postar (parecer humano)",
+    "variacao": "Nunca usa o mesmo comentário duas vezes seguidas",
+    "emoji": "Adiciona emojis para chamar atenção",
+    "link_bio": "Menciona 'link na bio' em 30% dos comentários"
+  }
+}

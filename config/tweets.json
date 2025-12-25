@@ -1,0 +1,58 @@
+{
+  "tweets": [
+    "🔥 Conteúdo exclusivo que vai transformar sua vida!",
+    "💡 A dica de hoje pode mudar tudo para você",
+    "⚡ Informação valiosa que poucos conhecem",
+    "🚀 Está pronto para o próximo nível?",
+    "💰 Estratégia comprovada que realmente funciona",
+    "🎯 Foco total no que realmente importa",
+    "✨ Descubra o segredo que poucos sabem",
+    "🔑 A chave para o sucesso está aqui",
+    "📈 Resultados reais, sem enrolação",
+    "💪 Chegou a hora de agir!",
+    "🌟 Oportunidade única, não perca!",
+    "🎁 Presente especial para você hoje",
+    "🔓 Acesso liberado por tempo limitado",
+    "⏰ Últimas vagas disponíveis!",
+    "🎓 Aprenda com quem realmente entende"
+  ],
+  
+  "hashtags": [
+    "#viral #dinheiro #renda #ganhar #online",
+    "#brasil #negocio #empreendedorismo #sucesso #foco",
+    "#marketing #vendas #estrategia #resultado #meta",
+    "#liberdade #financeira #investimento #riqueza #prosperidade",
+    "#motivacao #inspiracao #mindset #mentalidade #crescimento",
+    "#oportunidade #exclusivo #vip #premium #acesso",
+    "#trader #trading #forex #cripto #bitcoin",
+    "#afiliado #comissao #lucro #ganhos #rendimento",
+    "#dropshipping #ecommerce #vendasonline #loja #produto",
+    "#trabalhar #casa #home #office #remoto"
+  ],
+  
+  "variacoes_chamada": [
+    "Quer saber mais? Entre no grupo:",
+    "Conteúdo completo no Telegram:",
+    "Acesse nosso canal VIP:",
+    "Material exclusivo aqui:",
+    "Saiba tudo no grupo:",
+    "Link do canal na bio! Ou acesse:",
+    "Entre agora no nosso Telegram:",
+    "Grupo exclusivo:",
+    "Canal premium:",
+    "Comunidade VIP:"
+  ],
+  
+  "_instrucoes": {
+    "tweets": "Textos curtos para o tweet principal (máximo 280 caracteres)",
+    "hashtags": "Grupos de 5 hashtags relevantes (sistema rotaciona automaticamente)",
+    "variacoes_chamada": "Frases para usar antes do link do Telegram no comentário"
+  },
+  
+  "_limites_twitter": {
+    "tweet_max_chars": 280,
+    "tweet_max_chars_premium": 25000,
+    "hashtags_recomendadas": "2-3 por tweet (máximo 5)",
+    "midias_por_tweet": 4
+  }
+}

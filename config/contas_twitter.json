@@ -1,0 +1,97 @@
+{
+  "_instrucoes": "Configure suas contas do Twitter/X aqui. Divida entre POSTADORAS e ENGAJADORAS",
+  
+  "contas_postadoras": [
+    {
+      "id": 1,
+      "username": "conta_principal_1",
+      "email": "email1@example.com",
+      "password": "SENHA_AQUI",
+      "api_key": "SUA_API_KEY_AQUI",
+      "api_secret": "SUA_API_SECRET_AQUI",
+      "access_token": "SEU_ACCESS_TOKEN_AQUI",
+      "access_token_secret": "SEU_ACCESS_TOKEN_SECRET_AQUI",
+      "bearer_token": "SEU_BEARER_TOKEN_AQUI",
+      "proxy_id": null,
+      "status": "ativa",
+      "bio": "Conteúdo de valor sobre [NICHO] 🚀\n\nEntre no nosso canal VIP 👇",
+      "link_bio": "https://t.me/seu_canal",
+      "notas": "Conta principal de postagens"
+    },
+    {
+      "id": 2,
+      "username": "conta_principal_2",
+      "email": "email2@example.com",
+      "password": "SENHA_AQUI",
+      "api_key": "SUA_API_KEY_AQUI",
+      "api_secret": "SUA_API_SECRET_AQUI",
+      "access_token": "SEU_ACCESS_TOKEN_AQUI",
+      "access_token_secret": "SEU_ACCESS_TOKEN_SECRET_AQUI",
+      "bearer_token": "SEU_BEARER_TOKEN_AQUI",
+      "proxy_id": null,
+      "status": "ativa",
+      "bio": "💡 Dicas e estratégias exclusivas\n\nAcesse nosso Telegram:",
+      "link_bio": "https://t.me/seu_canal",
+      "notas": "Conta secundária"
+    }
+  ],
+  
+  "contas_engajadoras": [
+    {
+      "id": 101,
+      "username": "engajador_01",
+      "email": "eng01@example.com",
+      "password": "SENHA_AQUI",
+      "api_key": "SUA_API_KEY_AQUI",
+      "api_secret": "SUA_API_SECRET_AQUI",
+      "access_token": "SEU_ACCESS_TOKEN_AQUI",
+      "access_token_secret": "SEU_ACCESS_TOKEN_SECRET_AQUI",
+      "bearer_token": "SEU_BEARER_TOKEN_AQUI",
+      "proxy_id": null,
+      "status": "ativa",
+      "notas": "Conta engajadora - RT/Like/Save"
+    },
+    {
+      "id": 102,
+      "username": "engajador_02",
+      "email": "eng02@example.com",
+      "password": "SENHA_AQUI",
+      "api_key": "SUA_API_KEY_AQUI",
+      "api_secret": "SUA_API_SECRET_AQUI",
+      "access_token": "SEU_ACCESS_TOKEN_AQUI",
+      "access_token_secret": "SEU_ACCESS_TOKEN_SECRET_AQUI",
+      "bearer_token": "SEU_BEARER_TOKEN_AQUI",
+      "proxy_id": null,
+      "status": "ativa",
+      "notas": "Conta engajadora - RT/Like/Save"
+    },
+    {
+      "id": 103,
+      "username": "engajador_03",
+      "email": "eng03@example.com",
+      "password": "SENHA_AQUI",
+      "api_key": "SUA_API_KEY_AQUI",
+      "api_secret": "SUA_API_SECRET_AQUI",
+      "access_token": "SEU_ACCESS_TOKEN_AQUI",
+      "access_token_secret": "SEU_ACCESS_TOKEN_SECRET_AQUI",
+      "bearer_token": "SEU_BEARER_TOKEN_AQUI",
+      "proxy_id": null,
+      "status": "ativa",
+      "notas": "Conta engajadora - RT/Like/Save"
+    }
+  ],
+  
+  "_como_obter_credenciais": {
+    "passo_1": "Acesse: https://developer.twitter.com/en/portal/dashboard",
+    "passo_2": "Crie um app (ou use existente)",
+    "passo_3": "Em 'Keys and tokens', gere as credenciais",
+    "passo_4": "Copie: API Key, API Secret, Access Token, Access Token Secret, Bearer Token",
+    "passo_5": "Cole aqui no arquivo"
+  },
+  
+  "_niveis_acesso": {
+    "free": "Limite de 50 tweets/dia, 1500 tweets/mês",
+    "basic": "$100/mês - 3000 tweets/mês, 10k posts/mês",
+    "pro": "$5000/mês - 300k tweets/mês"
+  }
+}
